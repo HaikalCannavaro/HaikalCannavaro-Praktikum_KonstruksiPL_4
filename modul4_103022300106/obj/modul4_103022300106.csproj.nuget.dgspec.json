@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\103022300106\\modul4_103022300106\\modul4_103022300106.csproj": {}
+    "D:\\103022300106\\modul4_103022300106\\modul4_103022300106\\modul4_103022300106.csproj": {}
   },
   "projects": {
-    "D:\\103022300106\\modul4_103022300106\\modul4_103022300106.csproj": {
+    "D:\\103022300106\\modul4_103022300106\\modul4_103022300106\\modul4_103022300106.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\103022300106\\modul4_103022300106\\modul4_103022300106.csproj",
+        "projectUniqueName": "D:\\103022300106\\modul4_103022300106\\modul4_103022300106\\modul4_103022300106.csproj",
         "projectName": "modul4_103022300106",
-        "projectPath": "D:\\103022300106\\modul4_103022300106\\modul4_103022300106.csproj",
+        "projectPath": "D:\\103022300106\\modul4_103022300106\\modul4_103022300106\\modul4_103022300106.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "D:\\103022300106\\modul4_103022300106\\obj\\",
+        "outputPath": "D:\\103022300106\\modul4_103022300106\\modul4_103022300106\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
